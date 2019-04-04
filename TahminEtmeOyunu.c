@@ -41,7 +41,7 @@ int main()
 
             case -1: printf("\nOyun Bitirildi.."); break;
 
-            default: printf("Hatali Giris..\n\n");
+            default: printf("Hatali Giris..\n\n"); break;
         }
 
     }
