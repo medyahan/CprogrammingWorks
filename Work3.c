@@ -1,3 +1,5 @@
+/// SAYI TAHMİN ETME OYUNU
+
 #include <stdio.h>
 #include <stdlib.h>
 
