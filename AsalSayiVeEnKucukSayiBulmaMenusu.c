@@ -1,3 +1,5 @@
+// ASAL SAYI BULMA VE EN KUCUK SAYI BULMA
+
 #include <stdio.h>
 #include <stdlib.h>
 
